@@ -1,8 +1,5 @@
-# React + Vite
+# <img src="/public/icon.png"> WorldTourer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Welcome to World Tourer, your go-to platform for tracking and sharing your travel adventures! We believe that every trip is a story waiting to be told, and our tools empower you to document your journeys and pin your favorite destinations on an interactive map.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- World Tourer is built for web with the help of React.js, providing a smoother and faster user experience by reducing the loading time and gives the feel of a more responsive application.
