@@ -26,12 +26,12 @@ npm run dev
 
 #### Home Page
 
-<img src="/public/src-1.png" />
+<img src="/public/scr-1.png" />
 
 #### App Page
 
-<img src="/public/src-2.png" />
+<img src="/public/scr-2.png" />
 
 #### Login Page
 
-<img src="/public/src-3.png" />
+<img src="/public/scr-3.png" />
